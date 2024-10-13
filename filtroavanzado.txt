@@ -1,0 +1,6 @@
+Mi ip:
+201.213.145.149
+Mi usuario:
+vagrant
+El hash de mi usuario es:
+$y$j9T$f7V.J8o8/5JXqaI3xUKKQ0$oND2iaEkOI22AcHc9kfKwylXqBi.VixFO/cPGuxMD..
